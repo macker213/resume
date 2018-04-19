@@ -87,3 +87,13 @@ body {
     cursor: pointer;
     text-align: center;
     }
+    .contact
+    {
+      display: block;
+      width: 100%
+      border: none;
+      background-color: #f59f62;
+      padding: 14px 28px;
+      font-size:20px;
+      text-align: center;
+    }
